@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.7.0;
+//pragma solidity ^0.7.0;
+pragma solidity ^0.8.0;
 
 contract OverflowUnderflow {
     uint8 public maxValue = 255;
